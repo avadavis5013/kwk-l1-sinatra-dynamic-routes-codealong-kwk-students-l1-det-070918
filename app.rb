@@ -4,7 +4,7 @@ class App < Sinatra::Base
 
   # This is a sample static route.
   get '/hello' do
-    "Hello World!"
+    "Hi my name is AVA DAVIS!"
   end
 
   # This is a sample dynamic route.
